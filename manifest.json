@@ -1,6 +1,6 @@
 {
   "id": "a868d268",
-  "name": "Hello World sample plugin",
+  "name": "Hello World - MSK",
   "host": {
     "app": "XD",
     "minVersion": "13.0.0"
@@ -9,8 +9,8 @@
   "uiEntryPoints": [
     {
       "type": "menu",
-      "label": "Create Rectangle",
-      "commandId": "createRectangle"
+      "label": "Create Moleskine",
+      "commandId": "helloMoleskine"
     }
   ]
 }
